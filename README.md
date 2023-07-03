@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1>Hi, I'm Bryan! <br/><a href="https://github.com/BryanRej">Cyber Security Student</a>, <a href="https://www.linkedin.com/in/bryan-rejouis-0a4a8a208/"></a>, <a 
+
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+<h2> 🤳 Connect with me:</h2>
+[linkedin]: www.linkedin.com/in/bryan-rejouis-0a4a8a208 
 
 <!--
 **BryanRej/BryanRej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
