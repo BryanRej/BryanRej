@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Python</b>
-  - [Password Generator](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Password Generator](https://github.com/BryanRej/Password-Generator)
 
 <h2> 🤳 Connect with me:</h2>
 
