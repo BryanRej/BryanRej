@@ -4,7 +4,7 @@
 
 - <b>Python</b>
   - [Password Generator](https://github.com/BryanRej/Password-Generator)
-  - [Home Network](https://github.com/BryanRej/Home_Network)
+  - [Text Parser](https://github.com/BryanRej/Text-Parser)
 
 <h2> 🤳 Connect with me:</h2>
 
