@@ -7,6 +7,7 @@
   - [Text Parser](https://github.com/BryanRej/Text-Parser)
 - <b>Networking</b>
   - [Home Network](https://github.com/BryanRej/Home-Network)
+  - [Active Directory Homelab](https://github.com/BryanRej/Active-Directory-Homelab)
 <h2> 🤳 Connect with me:</h2>
 
 
