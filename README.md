@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bryan! <br/><a href="https://github.com/BryanRej">Cyber Security Student</a> <a href="https://www.linkedin.com/in/bryan-rejouis-0a4a8a208/"></a> </h1>
+<h1>Hi, I'm Bryan! <br/><a href="https://github.com/BryanRej">Cyber Security Enthusiast</a> <a href="https://www.linkedin.com/in/bryan-rejouis-0a4a8a208/"></a> </h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
