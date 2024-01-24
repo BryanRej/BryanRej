@@ -8,13 +8,22 @@
 - <b>Networking</b>
   - [Home Network](https://github.com/BryanRej/Home-Network)
   - [Active Directory Homelab](https://github.com/BryanRej/Active-Directory-Homelab)
-<h2> 🤳 Connect with me:</h2>
+
+<h2> :book: About me</h2>
+
+- 🌱 I’m currently delving into engineering with Splunk and implementing Python for automation.
+- 👯 I’m looking to collaborate with others in the cybersecurity space
+
+<h2> 🤳 Connect with me</h2>
+
+[<img target="_blank" alt="Bryan Rejouis | Mail" width="120px" height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]
+[<img target="_blank" alt="Bryan Rejouis | LinkedIn" width="140px" height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img target="_blank" width="120px" height="40" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 
 
-[<img align="left" alt="BryanRejouis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: www.linkedin.com/in/bryan-rejouis-0a4a8a208 
-
+[mail]: mailto:bryanrejouis8@gmail.com
+[linkedin]: https://www.linkedin.com/in/bryan-rejouis-0a4a8a208
+[twitter]: https://twitter.com/AlmightyRej
 <!--
 **BryanRej/BryanRej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
