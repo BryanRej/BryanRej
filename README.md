@@ -11,7 +11,7 @@
 
 <h2> :book: About me</h2>
 
-- 🌱 I’m currently delving into cloud security, threat detection, and implementing Python for automation.
+- 🌱 I’m currently delving into cloud security, threat detection, and implementing Python for automation
 - 👯 I’m looking to collaborate with others in the cybersecurity space
 
 <b><h2>My GitHub Stats</h2></b>
