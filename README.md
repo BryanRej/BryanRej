@@ -29,7 +29,7 @@
 
 [mail]: mailto:bryanrejouis8@gmail.com
 [linkedin]: https://www.linkedin.com/in/bryan-rejouis-0a4a8a208
-[twitter]: https://twitter.com/AlmightyRej
+[twitter]: https://twitter.com/CytechBry
 <!--
 **BryanRej/BryanRej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
