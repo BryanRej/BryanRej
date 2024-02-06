@@ -6,8 +6,9 @@
   - [Password Generator](https://github.com/BryanRej/Password-Generator)
   - [Text Parser](https://github.com/BryanRej/Text-Parser)
 - <b>Networking</b>
-  - [Home Network](https://github.com/BryanRej/Home-Network)
   - [Active Directory Homelab](https://github.com/BryanRej/Active-Directory-Homelab)
+  - [Home Network](https://github.com/BryanRej/Home-Network)
+  
 
 <h2> :book: About me</h2>
 
