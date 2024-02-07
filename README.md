@@ -28,7 +28,7 @@
 [<img target="_blank" width="120px" height="40" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 
 
-[mail]: mailto:bryanrejouis8@gmail.com
+[mail]: mailto:
 [linkedin]: https://www.linkedin.com/in/bryan-rejouis-0a4a8a208
 [twitter]: https://twitter.com/CytechBry
 <!--
