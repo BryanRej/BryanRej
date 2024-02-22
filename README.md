@@ -21,7 +21,7 @@
 
 <a href="http://www.github.com/BryanRej"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanRej&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-# 💻 Tech Stack:
+# 💻 Tech Tools:
 ### Languages:
 <div>
     <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
