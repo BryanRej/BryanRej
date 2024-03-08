@@ -1,4 +1,5 @@
-<h1>Hi, I'm Bryan! <br/><a href="https://github.com/BryanRej">Cyber Security Enthusiast</a> <a href="https://www.linkedin.com/in/bryan-rejouis-0a4a8a208/"></a> </h1>
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4500&pause=1000&color=A855F7&multiline=true&random=false&width=435&lines=Hi%2C+I'm+Bryan!;Cyber+Security+Enthusiast" alt="Typing SVG" /></a> </h1>
+
 
 <h2>👨‍💻 Cyber Security Projects</h2>
 
