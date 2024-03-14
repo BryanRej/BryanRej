@@ -6,6 +6,7 @@
 - <b>Programming</b>
   - [Account Manager](https://github.com/BryanRej/Account-Manager)
   - [Password Generator](https://github.com/BryanRej/Password-Generator)
+  - [Port Scanner](https://github.com/BryanRej/Port-Scanner)
   - [Text Parser](https://github.com/BryanRej/Text-Parser)
 - <b>Practical</b>
   - [Active Directory Homelab Creation](https://github.com/BryanRej/Active-Directory-Homelab)
