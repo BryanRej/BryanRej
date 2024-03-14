@@ -8,7 +8,7 @@
   - [Password Generator](https://github.com/BryanRej/Password-Generator)
   - [Text Parser](https://github.com/BryanRej/Text-Parser)
 - <b>Practical</b>
-  - [Active Directory Homelab](https://github.com/BryanRej/Active-Directory-Homelab)
+  - [Active Directory Homelab Set Up](https://github.com/BryanRej/Active-Directory-Homelab)
   - [Home Network](https://github.com/BryanRej/Home-Network)
   
 
