@@ -3,10 +3,10 @@
 
 <h2>👨‍💻 Cyber Security Projects</h2>
 
-- <b>Python</b>
+- <b>Programming</b>
   - [Password Generator](https://github.com/BryanRej/Password-Generator)
   - [Text Parser](https://github.com/BryanRej/Text-Parser)
-- <b>Networking</b>
+- <b>Practical</b>
   - [Active Directory Homelab](https://github.com/BryanRej/Active-Directory-Homelab)
   - [Home Network](https://github.com/BryanRej/Home-Network)
   
