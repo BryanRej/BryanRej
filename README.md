@@ -4,6 +4,7 @@
 <h2>👨‍💻 Cyber Security Projects</h2>
 
 - <b>Programming</b>
+  - [Account Manager](https://https://github.com/BryanRej/Account-Manager)
   - [Password Generator](https://github.com/BryanRej/Password-Generator)
   - [Text Parser](https://github.com/BryanRej/Text-Parser)
 - <b>Practical</b>
