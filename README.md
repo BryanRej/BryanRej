@@ -9,7 +9,7 @@
   - [Port Scanner](https://github.com/BryanRej/Port-Scanner)
   - [Text Parser](https://github.com/BryanRej/Text-Parser)
 - <b>Practical</b>
-  - [Active Directory Homelab Creation](https://github.com/BryanRej/Active-Directory-Homelab)
+  - [Active Directory Setup](https://github.com/BryanRej/Active-Directory-Homelab)
   - [Home Network](https://github.com/BryanRej/Home-Network)
   
 
