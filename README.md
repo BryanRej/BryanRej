@@ -3,14 +3,15 @@
 
 <h2>👨‍💻 Cyber Security Projects</h2>
 
+- <b>Practical</b>
+  - [Active Directory Setup](https://github.com/BryanRej/Active-Directory-Setup)
+  - [Home Network](https://github.com/BryanRej/Home-Network)
 - <b>Programming</b>
   - [Account Manager](https://github.com/BryanRej/Account-Manager)
   - [Password Generator](https://github.com/BryanRej/Password-Generator)
   - [Port Scanner](https://github.com/BryanRej/Port-Scanner)
   - [Text Parser](https://github.com/BryanRej/Text-Parser)
-- <b>Practical</b>
-  - [Active Directory Setup](https://github.com/BryanRej/Active-Directory-Setup)
-  - [Home Network](https://github.com/BryanRej/Home-Network)
+
   
 
 <h2> 🚀 Currently</h2>
