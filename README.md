@@ -4,7 +4,7 @@
 <h2>👨‍💻 Cyber Security Projects</h2>
 
 - <b>Practical</b>
-  - [SOC Automation Lab ]()
+  - [SOC Automation Lab ](https://github.com/BryanRej/SOC-Homelab)
   - [Help Desk Lab ](https://github.com/BryanRej/osTicket-Setup)
   - [Mythic C2 Server Creation](https://github.com/BryanRej/Mythic-Server-Setup)
   - [Active Directory Setup](https://github.com/BryanRej/Active-Directory-Setup)
