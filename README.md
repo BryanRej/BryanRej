@@ -33,6 +33,10 @@
 <div>
     <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/html5-%2307405e.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+
 </div> 
 
 ### Tools:
@@ -51,7 +55,7 @@
 <a href="https://tryhackme.com/p/CyBry"><img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 
 <!--
-**BryanRej/BryanRej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BryanRej/BryanRej** is a ✨ _unique_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
