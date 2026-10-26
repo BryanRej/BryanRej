@@ -1,9 +1,10 @@
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4500&pause=1000&center=true&color=A855F7&multiline=true&random=false&width=435&lines=Hi%2C+I'm+Bryan!;Cyber+Security+Enthusiast" alt="Typing SVG" /></a> </h1>
 
 
-<h2>👨‍💻 Cyber Security Projects</h2>
+<h2>👨‍💻 IT Projects</h2>
 
 - <b>Practical</b>
+  - [Entra ID Lab ](https://github.com/BryanRej/Entra-ID-Lab)
   - [SOC Automation Lab ](https://github.com/BryanRej/SOC-Homelab)
   - [Help Desk Lab ](https://github.com/BryanRej/osTicket-Setup)
   - [Mythic C2 Server Creation](https://github.com/BryanRej/Mythic-Server-Setup)
